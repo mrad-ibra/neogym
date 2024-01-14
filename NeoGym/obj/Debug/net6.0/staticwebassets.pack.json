@@ -1,0 +1,137 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\murad.i\\source\\repos\\NeoGym\\NeoGym\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\NeoGym.bundle.scp.css",
+      "PackagePath": "staticwebassets\\NeoGym.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\murad.i\\source\\repos\\NeoGym\\NeoGym\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\murad.i\\source\\repos\\NeoGym\\NeoGym\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\murad.i\\source\\repos\\NeoGym\\NeoGym\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\murad.i\\source\\repos\\NeoGym\\NeoGym\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\murad.i\\source\\repos\\NeoGym\\NeoGym\\wwwroot\\css\\style.scss",
+      "PackagePath": "staticwebassets\\css\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\murad.i\\source\\repos\\NeoGym\\NeoGym\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\murad.i\\source\\repos\\NeoGym\\NeoGym\\wwwroot\\images\\contact-img.jpg",
+      "PackagePath": "staticwebassets\\images\\contact-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murad.i\\source\\repos\\NeoGym\\NeoGym\\wwwroot\\images\\envelope-white.png",
+      "PackagePath": "staticwebassets\\images\\envelope-white.png"
+    },
+    {
+      "Id": "C:\\Users\\murad.i\\source\\repos\\NeoGym\\NeoGym\\wwwroot\\images\\facebook-logo.png",
+      "PackagePath": "staticwebassets\\images\\facebook-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\murad.i\\source\\repos\\NeoGym\\NeoGym\\wwwroot\\images\\healthy-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\healthy-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murad.i\\source\\repos\\NeoGym\\NeoGym\\wwwroot\\images\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\hero-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murad.i\\source\\repos\\NeoGym\\NeoGym\\wwwroot\\images\\instagram-logo.png",
+      "PackagePath": "staticwebassets\\images\\instagram-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\murad.i\\source\\repos\\NeoGym\\NeoGym\\wwwroot\\images\\location-white.png",
+      "PackagePath": "staticwebassets\\images\\location-white.png"
+    },
+    {
+      "Id": "C:\\Users\\murad.i\\source\\repos\\NeoGym\\NeoGym\\wwwroot\\images\\menu.png",
+      "PackagePath": "staticwebassets\\images\\menu.png"
+    },
+    {
+      "Id": "C:\\Users\\murad.i\\source\\repos\\NeoGym\\NeoGym\\wwwroot\\images\\search-icon.png",
+      "PackagePath": "staticwebassets\\images\\search-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\murad.i\\source\\repos\\NeoGym\\NeoGym\\wwwroot\\images\\t1.jpg",
+      "PackagePath": "staticwebassets\\images\\t1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murad.i\\source\\repos\\NeoGym\\NeoGym\\wwwroot\\images\\t2.jpg",
+      "PackagePath": "staticwebassets\\images\\t2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murad.i\\source\\repos\\NeoGym\\NeoGym\\wwwroot\\images\\t3.jpg",
+      "PackagePath": "staticwebassets\\images\\t3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murad.i\\source\\repos\\NeoGym\\NeoGym\\wwwroot\\images\\telephone-white.png",
+      "PackagePath": "staticwebassets\\images\\telephone-white.png"
+    },
+    {
+      "Id": "C:\\Users\\murad.i\\source\\repos\\NeoGym\\NeoGym\\wwwroot\\images\\trainer-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\trainer-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murad.i\\source\\repos\\NeoGym\\NeoGym\\wwwroot\\images\\twitter.png",
+      "PackagePath": "staticwebassets\\images\\twitter.png"
+    },
+    {
+      "Id": "C:\\Users\\murad.i\\source\\repos\\NeoGym\\NeoGym\\wwwroot\\images\\u-1.png",
+      "PackagePath": "staticwebassets\\images\\u-1.png"
+    },
+    {
+      "Id": "C:\\Users\\murad.i\\source\\repos\\NeoGym\\NeoGym\\wwwroot\\images\\u-2.png",
+      "PackagePath": "staticwebassets\\images\\u-2.png"
+    },
+    {
+      "Id": "C:\\Users\\murad.i\\source\\repos\\NeoGym\\NeoGym\\wwwroot\\images\\u-3.png",
+      "PackagePath": "staticwebassets\\images\\u-3.png"
+    },
+    {
+      "Id": "C:\\Users\\murad.i\\source\\repos\\NeoGym\\NeoGym\\wwwroot\\images\\u-4.png",
+      "PackagePath": "staticwebassets\\images\\u-4.png"
+    },
+    {
+      "Id": "C:\\Users\\murad.i\\source\\repos\\NeoGym\\NeoGym\\wwwroot\\images\\us-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\us-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murad.i\\source\\repos\\NeoGym\\NeoGym\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\murad.i\\source\\repos\\NeoGym\\NeoGym\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.NeoGym.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.NeoGym.props",
+      "PackagePath": "build\\NeoGym.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.NeoGym.props",
+      "PackagePath": "buildMultiTargeting\\NeoGym.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.NeoGym.props",
+      "PackagePath": "buildTransitive\\NeoGym.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
